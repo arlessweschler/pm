@@ -16,7 +16,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirror all youtube-dl supported links
 - Mirror telegram files
 - Extract .zip .rar .tar and many supported file types
-- Download from mwega.nz
+- Download from mega.nz
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
